@@ -1,1 +1,1 @@
-The sources behind http://dftlibs.org
+The sources behind https://dftlibs.org
